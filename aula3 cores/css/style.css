@@ -1,0 +1,31 @@
+body{
+    width: 960px;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    background-image:  linear-gradient(to top right, red,orange,yellow,green,#000000);;
+}
+p{
+    color: #DC143C;
+}
+h1{
+    color: MediumVioletRed;
+}
+b{
+    color: rgb(218,112,214);
+}
+.img{
+    background-image: url(https://www.ranoya.com/Assets/Logotipos/UFPESmall.png);
+    width: 250px;
+    height: 250px;
+    border: #000000 1px;
+    border-radius: 20px;
+    display: inline-block;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+
+/* n da para troca cor da imagem*/
+
+}
